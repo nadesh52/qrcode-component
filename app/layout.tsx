@@ -13,7 +13,7 @@ type RootLayoutProps = {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
-      <body className="bg-slate-300">{children}</body>
+      <body className="bg-slate-200">{children}</body>
     </html>
   );
 }
