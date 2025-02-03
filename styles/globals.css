@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@layer base {
+  @font-face {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4i0ExAo.woff2)
+      format("woff2");
+  }
+}
+
+@layer components {
+  .font-outfit {
+    @apply font-light;
+  }
+} */
